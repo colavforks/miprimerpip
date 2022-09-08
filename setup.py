@@ -34,10 +34,10 @@ if os.name in ('nt', 'dos'):
 def main():
     setup(
         # Application name:
-        name="desoper",
+        name="miprimerpip",
 
         # Version number (initial):
-        version="0.0.3",
+        version="0.0.1",
 
         # Application author details:
         author="restrepo",
@@ -50,7 +50,7 @@ def main():
         include_package_data=True,
 
         # Details
-        url="https://github.com/restrepo/DevOps",
+        url="https://github.com/colavforks/miprimerpip/",
 
         license="BSD",
 
